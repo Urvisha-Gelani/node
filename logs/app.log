@@ -358,3 +358,114 @@
 [15-05-2025 16:58:01] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
 [15-05-2025 16:58:01] INFO: Decoded token: [object Object]
 [15-05-2025 16:58:01] INFO: loginUserId: 35
+[15-05-2025 17:10:19] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 17:10:19] INFO: interfaces: [object Object]
+[15-05-2025 17:10:19] INFO: Local IP:", 192.168.1.25
+[15-05-2025 17:10:19] INFO: ✅ MongoDB connected
+[15-05-2025 17:10:19] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 17:10:20] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 17:10:20] INFO: interfaces: [object Object]
+[15-05-2025 17:10:20] INFO: Local IP:", 192.168.1.25
+[15-05-2025 17:10:20] INFO: ✅ MongoDB connected
+[15-05-2025 17:10:20] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 17:18:08] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:18:08] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:18:08] INFO: Decoded token: [object Object]
+[15-05-2025 17:18:08] INFO: existingUser: null
+[15-05-2025 17:18:08] INFO: loginUserId: 35
+[15-05-2025 17:18:08] INFO: req.user: [object Object]
+[15-05-2025 17:18:08] INFO: userData: [object Object]
+[15-05-2025 17:18:08] INFO: Next sequence value: {
+  _id: new ObjectId('681d8e065d8e620093fad80a'),
+  id: 'userId',
+  __v: 0,
+  seq: 48
+}
+[15-05-2025 17:18:08] INFO: user: {
+  id: 48,
+  name: 'saniya',
+  email: 'saniya@mail.com',
+  age: 24,
+  loginUserId: 35,
+  createdAt: 2025-05-15T11:48:08.381Z,
+  updatedAt: 2025-05-15T11:48:08.381Z
+}
+[15-05-2025 17:18:08] INFO: newUser: {
+  id: 48,
+  name: 'saniya',
+  email: 'saniya@mail.com',
+  age: 24,
+  loginUserId: 35,
+  createdAt: 2025-05-15T11:48:08.381Z,
+  updatedAt: 2025-05-15T11:48:08.381Z
+}
+[15-05-2025 17:18:34] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:18:34] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:18:34] INFO: Decoded token: [object Object]
+[15-05-2025 17:18:34] INFO: existingUser: {
+  id: 36,
+  name: 'Shivani',
+  email: 'shivani@mail.com',
+  age: 22,
+  loginUserId: 35,
+  createdAt: 2025-05-15T06:07:34.955Z,
+  updatedAt: 2025-05-15T06:09:32.365Z
+}
+[15-05-2025 17:20:21] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 17:20:21] INFO: interfaces: [object Object]
+[15-05-2025 17:20:21] INFO: Local IP:", 192.168.1.25
+[15-05-2025 17:20:21] INFO: ✅ MongoDB connected
+[15-05-2025 17:20:21] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 17:20:23] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 17:20:23] INFO: interfaces: [object Object]
+[15-05-2025 17:20:23] INFO: Local IP:", 192.168.1.25
+[15-05-2025 17:20:23] INFO: ✅ MongoDB connected
+[15-05-2025 17:20:23] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 17:21:15] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:21:15] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:21:15] INFO: Decoded token: [object Object]
+[15-05-2025 17:21:15] INFO: existingUser: {
+  id: 36,
+  name: 'Shivani',
+  email: 'shivani@mail.com',
+  age: 22,
+  loginUserId: 35,
+  createdAt: 2025-05-15T06:07:34.955Z,
+  updatedAt: 2025-05-15T06:09:32.365Z
+}
+[15-05-2025 17:21:16] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 17:21:16] INFO: interfaces: [object Object]
+[15-05-2025 17:21:16] INFO: Local IP:", 192.168.1.25
+[15-05-2025 17:21:16] INFO: ✅ MongoDB connected
+[15-05-2025 17:21:16] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 17:21:46] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:21:46] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 17:21:46] INFO: Decoded token: [object Object]
+[15-05-2025 17:21:46] INFO: existingUser: null
+[15-05-2025 17:21:46] INFO: loginUserId: 35
+[15-05-2025 17:21:46] INFO: req.user: [object Object]
+[15-05-2025 17:21:46] INFO: userData: [object Object]
+[15-05-2025 17:21:46] INFO: Next sequence value: {
+  _id: new ObjectId('681d8e065d8e620093fad80a'),
+  id: 'userId',
+  __v: 0,
+  seq: 49
+}
+[15-05-2025 17:21:46] INFO: user: {
+  id: 49,
+  name: 'Shivani',
+  email: 'shivani963@mail.com',
+  age: 29,
+  loginUserId: 35,
+  createdAt: 2025-05-15T11:51:46.170Z,
+  updatedAt: 2025-05-15T11:51:46.170Z
+}
+[15-05-2025 17:21:46] INFO: newUser: {
+  id: 49,
+  name: 'Shivani',
+  email: 'shivani963@mail.com',
+  age: 29,
+  loginUserId: 35,
+  createdAt: 2025-05-15T11:51:46.170Z,
+  updatedAt: 2025-05-15T11:51:46.170Z
+}

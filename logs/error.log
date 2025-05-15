@@ -130,3 +130,4 @@
     at processParams (D:\backend_node\node_modules\router\index.js:582:12)
     at next (D:\backend_node\node_modules\router\index.js:291:5)
     at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 17:21:15] ERROR: createUser: Email already exists
