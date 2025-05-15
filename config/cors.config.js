@@ -8,13 +8,12 @@ const FRONTEND_ORIGIN = `http://localhost:${FRONTEND_PORT}`;
 
 const corsOptions = {
   origin: (origin, callback) => {
-    // Allow requests with no origin (like curl or postman)
     if (!origin) return callback(null, true);
 
     if (origin === FRONTEND_ORIGIN) {
       return callback(null, true);
     } else {
-      const error = new Error("Not allowed by CORS");
+      const error = new Error("CORS error: Origin not allowed by CORS policy");
       error.status = 500;
       return callback(error);
     }

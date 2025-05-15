@@ -9,8 +9,10 @@ import {
   createUserValidator,
   updateUserValidator,
 } from "../validator/user.validator.js";
+import authenticateToken from "../middlewares/auth.middleware.js";
 
 const userRouter = express.Router();
+userRouter.use(authenticateToken);
 
 userRouter.get("/", getUsers);
 

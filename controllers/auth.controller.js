@@ -2,9 +2,10 @@ import LogIn from "../models/logIn.model.js";
 import jwt from "jsonwebtoken";
 import userRegister from "../services/authServices.js";
 import { sendWelcomeEmail } from "../services/email.services.js";
-
-console.log(process.env.JWT_SECRET, "process.env.JWT_SECRET");
-
+import dotenv from "dotenv";
+import logger from "../utils/logger.js";
+dotenv.config();
+logger.info(`JWT_SECRET: ${process.env.JWT_SECRET}`);
 export const register = async (req, res) => {
   const { email, password } = req.body;
 
@@ -15,11 +16,11 @@ export const register = async (req, res) => {
     }
 
     const newUser = await userRegister({ email, password });
-    console.log(newUser, "newUser**********");
+    logger.info(`New user registered: ${newUser}`);
 
     res.status(201).json(newUser);
   } catch (err) {
-    console.error("Registration error:", err);
+    logger.error(`Registration error: ${err}`);
     res.status(500).json({ message: "Server error" });
   }
 };
@@ -40,10 +41,7 @@ export const login = async (req, res) => {
     if (token) {
       try {
         jwt.verify(token, process.env.JWT_SECRET);
-        console.log(
-          "Token is valid",
-          jwt.verify(token, process.env.JWT_SECRET)
-        );
+        logger.info("Token is valid");
       } catch (err) {
         if (err.name === "TokenExpiredError") {
           isTokenExpired = true;
@@ -64,20 +62,20 @@ export const login = async (req, res) => {
     }
     res.set("Authorization", `Bearer ${token}`);
     await sendWelcomeEmail(email, token);
-    console.log("Welcome email sent to:", email);
+    logger.info(`Welcome email sent to: ${email}`);
     res.status(200).json({
       message: "Login successful",
       email: user.email,
     });
   } catch (err) {
-    console.error("Login error:", err);
+    logger.error(`Login error: ${err}`);
     res.status(500).json({ message: "Server error" });
   }
 };
 
 export const logout = async (req, res) => {
   const { email } = req.body;
-  console.log(email, "email**********");
+  logger.info(`Logout request for email: ${email}`);
 
   try {
     const user = await LogIn.findOne({ email });
@@ -89,7 +87,7 @@ export const logout = async (req, res) => {
     await user.save();
     res.status(200).json({ message: "User signed out successfully" });
   } catch (err) {
-    console.error("Logout error:", err);
+    logger.error(`Logout error: ${err}`);
     res.status(500).json({ message: "Server error" });
   }
 };

@@ -1,5 +1,6 @@
 import User from "../models/user.model.js";
 import Counter from "../models/counter.model.js";
+import logger from "../utils/logger.js";
 
 const getNextSequenceValue = async () => {
   const result = await Counter.findOneAndUpdate(
@@ -10,17 +11,18 @@ const getNextSequenceValue = async () => {
   if (!result) {
     throw new Error("Failed to generate user ID");
   }
-  console.log(result, "result");
+  logger.info(`Next sequence value: ${result}`);
   return result.seq;
 };
 
 const userCreated = async (userData) => {
-  console.log(userData, "userData");
+  logger.info(`userData: ${userData}`);
   const nextUserId = await getNextSequenceValue();
   const user = new User({
     id: nextUserId,
     ...userData,
   });
+  logger.info(`user: ${user}`);
   await user.save();
   return user;
 };
