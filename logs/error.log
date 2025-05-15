@@ -1,0 +1,132 @@
+[15-05-2025 16:52:42] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:52:42] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:54:15] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:54:15] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:56:56] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:56:56] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:57:09] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:57:09] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:57:29] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:57:29] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:57:48] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:57:48] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)

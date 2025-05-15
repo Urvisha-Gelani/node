@@ -227,3 +227,134 @@
 [15-05-2025 16:46:01] INFO: Local IP:", 192.168.1.25
 [15-05-2025 16:46:01] INFO: ✅ MongoDB connected
 [15-05-2025 16:46:01] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:47:10] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:47:10] INFO: interfaces: [object Object]
+[15-05-2025 16:47:10] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:47:10] INFO: ✅ MongoDB connected
+[15-05-2025 16:47:10] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:47:34] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:47:34] INFO: interfaces: Wi-Fi,Loopback Pseudo-Interface 1
+[15-05-2025 16:47:34] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:47:34] INFO: ✅ MongoDB connected
+[15-05-2025 16:47:34] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:47:36] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:47:36] INFO: interfaces: Wi-Fi,Loopback Pseudo-Interface 1
+[15-05-2025 16:47:36] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:47:36] INFO: ✅ MongoDB connected
+[15-05-2025 16:47:36] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:47:50] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:47:50] INFO: interfaces: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
+[15-05-2025 16:47:50] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:47:50] INFO: ✅ MongoDB connected
+[15-05-2025 16:47:50] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:47:58] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:47:58] INFO: interfaces: [object Object]
+[15-05-2025 16:47:58] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:47:58] INFO: ✅ MongoDB connected
+[15-05-2025 16:47:58] INFO: 🚀  Server running at http://192.168.1.25:3005
+[2025-05-15T11:20:27.772Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[2025-05-15T11:20:27.777Z] INFO: interfaces: [object Object]
+[2025-05-15T11:20:27.778Z] INFO: Local IP:", 192.168.1.25
+[2025-05-15T11:20:27.805Z] INFO: ✅ MongoDB connected
+[2025-05-15T11:20:27.807Z] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:51:26] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:51:27] INFO: interfaces: [object Object]
+[15-05-2025 16:51:27] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:51:27] INFO: ✅ MongoDB connected
+[15-05-2025 16:51:27] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:51:38] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:51:38] INFO: interfaces: [object Object]
+[15-05-2025 16:51:38] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:51:38] INFO: ✅ MongoDB connected
+[15-05-2025 16:51:38] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:52:33] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:52:33] INFO: interfaces: [object Object]
+[15-05-2025 16:52:33] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:52:33] INFO: ✅ MongoDB connected
+[15-05-2025 16:52:33] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:52:42] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:52:42] WARN: Status Code: 500
+[15-05-2025 16:52:42] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:52:42] WARN: Status Code: 500
+[15-05-2025 16:53:16] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:53:16] INFO: interfaces: [object Object]
+[15-05-2025 16:53:16] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:53:16] INFO: ✅ MongoDB connected
+[15-05-2025 16:53:16] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:53:48] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:53:48] INFO: interfaces: [object Object]
+[15-05-2025 16:53:48] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:53:48] INFO: ✅ MongoDB connected
+[15-05-2025 16:53:48] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:53:50] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:53:50] INFO: interfaces: [object Object]
+[15-05-2025 16:53:50] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:53:50] INFO: ✅ MongoDB connected
+[15-05-2025 16:53:50] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:54:12] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:54:12] INFO: interfaces: [object Object]
+[15-05-2025 16:54:12] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:54:12] INFO: ✅ MongoDB connected
+[15-05-2025 16:54:12] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:54:15] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:54:15] WARN: Status Code: 500
+[15-05-2025 16:54:15] ERROR: Error: CORS error: Origin not allowed by CORS policy
+    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
+    at D:\backend_node\node_modules\cors\lib\index.js:219:13
+    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
+    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
+    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
+    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
+    at D:\backend_node\node_modules\router\index.js:297:9
+    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
+    at next (D:\backend_node\node_modules\router\index.js:291:5)
+    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
+[15-05-2025 16:54:15] WARN: Status Code: 500
+[15-05-2025 16:56:41] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:56:41] INFO: interfaces: [object Object]
+[15-05-2025 16:56:41] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:56:41] INFO: ✅ MongoDB connected
+[15-05-2025 16:56:41] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:57:57] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[15-05-2025 16:57:57] INFO: interfaces: [object Object]
+[15-05-2025 16:57:57] INFO: Local IP:", 192.168.1.25
+[15-05-2025 16:57:57] INFO: ✅ MongoDB connected
+[15-05-2025 16:57:57] INFO: 🚀  Server running at http://192.168.1.25:3005
+[15-05-2025 16:58:01] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 16:58:01] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 16:58:01] INFO: Decoded token: [object Object]
+[15-05-2025 16:58:01] INFO: loginUserId: 35
+[15-05-2025 16:58:01] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 16:58:01] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
+[15-05-2025 16:58:01] INFO: Decoded token: [object Object]
+[15-05-2025 16:58:01] INFO: loginUserId: 35
