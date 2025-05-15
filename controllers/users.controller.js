@@ -48,8 +48,10 @@ export const createUser = async (req, res) => {
       loginUserId,
     });
     logger.info(`existingUser: ${existingUser}`);
-    if (existingUser)
+    if (existingUser) {
+      logger.error(`createUser: Email already exists`);
       return res.status(422).json({ message: "Email already exists" });
+    }
     logger.info(`loginUserId: ${loginUserId}`);
     logger.info(`req.user: ${req.user}`);
     const newUser = await userCreated({
@@ -90,6 +92,7 @@ export const updateUser = async (req, res) => {
     });
 
     if (existingUser) {
+      logger.error(`updateUser: Email already exists`);
       return res.status(422).json({ message: "Email already exists" });
     }
 
