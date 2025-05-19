@@ -1,471 +1,1028 @@
-[2025-05-15T10:46:41.221Z] INFO: JWT_SECRET:
-[2025-05-15T10:46:41.259Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:54:31.410Z] INFO: JWT_SECRET:
-[2025-05-15T10:54:31.415Z] INFO: interfaces:
-[2025-05-15T10:54:31.416Z] INFO: Local IP:
-[2025-05-15T10:54:31.446Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:54:31.449Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:55:19.463Z] INFO: JWT_SECRET:
-[2025-05-15T10:55:19.468Z] INFO: interfaces:
-[2025-05-15T10:55:19.469Z] INFO: Local IP:
-[2025-05-15T10:55:19.498Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:55:19.500Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:55:21.284Z] INFO: JWT_SECRET:
-[2025-05-15T10:55:21.290Z] INFO: interfaces:
-[2025-05-15T10:55:21.290Z] INFO: Local IP:
-[2025-05-15T10:55:21.320Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:55:21.323Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:55:39.709Z] INFO: JWT_SECRET:
-[2025-05-15T10:55:39.715Z] INFO: interfaces:
-[2025-05-15T10:55:39.715Z] INFO: Local IP:
-[2025-05-15T10:55:39.747Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:55:39.750Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:55:53.113Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:55:53.118Z] INFO: interfaces:
-[2025-05-15T10:55:53.119Z] INFO: Local IP:
-[2025-05-15T10:55:53.154Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:55:53.157Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:55:54.749Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:55:54.755Z] INFO: interfaces:
-[2025-05-15T10:55:54.756Z] INFO: Local IP:
-[2025-05-15T10:55:54.783Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:55:54.785Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:56:09.945Z] INFO: Authorization header:
-[2025-05-15T10:56:09.945Z] INFO: Token extracted:
-[2025-05-15T10:56:09.948Z] INFO: Decoded token:
-[2025-05-15T10:56:09.956Z] INFO: loginUserId:
-[2025-05-15T10:56:09.967Z] INFO: Authorization header:
-[2025-05-15T10:56:09.967Z] INFO: Token extracted:
-[2025-05-15T10:56:09.969Z] INFO: Decoded token:
-[2025-05-15T10:56:09.973Z] INFO: loginUserId:
-[2025-05-15T10:57:06.472Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:57:06.477Z] INFO: interfaces: [object Object]
-[2025-05-15T10:57:06.478Z] INFO: Local IP:
-[2025-05-15T10:57:06.478Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:57:06.507Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:57:06.509Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:57:08.906Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:57:08.912Z] INFO: interfaces: [object Object]
-[2025-05-15T10:57:08.912Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:57:08.952Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:57:08.955Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:57:10.453Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:57:10.458Z] INFO: interfaces: [object Object]
-[2025-05-15T10:57:10.458Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:57:10.486Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:57:10.488Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:57:36.049Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:57:36.054Z] INFO: interfaces: [object Object]
-[2025-05-15T10:57:36.055Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:57:36.086Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:57:36.088Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:57:54.462Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:57:54.468Z] INFO: interfaces: [object Object]
-[2025-05-15T10:57:54.469Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:57:54.497Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:57:54.500Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:58:16.250Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:58:16.256Z] INFO: interfaces: [object Object]
-[2025-05-15T10:58:16.257Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:58:16.288Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:58:16.290Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:58:41.532Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:58:41.539Z] INFO: interfaces: [object Object]
-[2025-05-15T10:58:41.540Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:58:41.572Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:58:41.575Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:59:09.638Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:59:09.643Z] INFO: interfaces: [object Object]
-[2025-05-15T10:59:09.643Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:59:09.671Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:59:09.673Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T10:59:46.258Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T10:59:46.266Z] INFO: interfaces: [object Object]
-[2025-05-15T10:59:46.267Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T10:59:46.307Z] INFO: ✅ MongoDB connected
-[2025-05-15T10:59:46.310Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:00:06.106Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:00:06.111Z] INFO: interfaces: [object Object]
-[2025-05-15T11:00:06.112Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:00:06.143Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:00:06.145Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:00:31.069Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:00:31.075Z] INFO: interfaces: [object Object]
-[2025-05-15T11:00:31.076Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:00:31.104Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:00:31.106Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:00:49.939Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:00:49.945Z] INFO: interfaces: [object Object]
-[2025-05-15T11:00:49.946Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:00:49.977Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:00:49.980Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:01:22.351Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:01:22.358Z] INFO: interfaces: [object Object]
-[2025-05-15T11:01:22.360Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:01:22.396Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:01:22.399Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:01:25.213Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:01:25.219Z] INFO: interfaces: [object Object]
-[2025-05-15T11:01:25.219Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:01:25.251Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:01:25.253Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:01:47.606Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:01:47.612Z] INFO: interfaces: [object Object]
-[2025-05-15T11:01:47.613Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:01:47.642Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:01:47.644Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:02:00.256Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:02:00.262Z] INFO: interfaces: [object Object]
-[2025-05-15T11:02:00.263Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:02:00.297Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:02:00.299Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:02:13.377Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:02:13.382Z] INFO: interfaces: [object Object]
-[2025-05-15T11:02:13.383Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:02:13.412Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:02:13.414Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:03:05.076Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:03:05.083Z] INFO: interfaces: [object Object]
-[2025-05-15T11:03:05.083Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:03:05.114Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:03:05.116Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:03:58.281Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:03:58.286Z] INFO: interfaces: [object Object]
-[2025-05-15T11:03:58.287Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:03:58.324Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:03:58.326Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:04:45.576Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:04:45.581Z] INFO: interfaces: [object Object]
-[2025-05-15T11:04:45.582Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:04:45.611Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:04:45.613Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:05:01.879Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:05:01.885Z] INFO: interfaces: [object Object]
-[2025-05-15T11:05:01.885Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:05:01.930Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:05:01.933Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:05:25.231Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:05:25.238Z] INFO: interfaces: [object Object]
-[2025-05-15T11:05:25.238Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:05:25.273Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:05:25.275Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:05:42.582Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:05:42.592Z] INFO: interfaces: [object Object]
-[2025-05-15T11:05:42.593Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:05:42.634Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:05:42.637Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:06:08.418Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:06:08.424Z] INFO: interfaces: [object Object]
-[2025-05-15T11:06:08.424Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:06:08.458Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:06:08.461Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:06:23.714Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:06:23.719Z] INFO: interfaces: [object Object]
-[2025-05-15T11:06:23.719Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:06:23.749Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:06:23.753Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:06:36.732Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:06:36.738Z] INFO: interfaces: [object Object]
-[2025-05-15T11:06:36.738Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:06:36.770Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:06:36.772Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:06:47.497Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:06:47.503Z] INFO: interfaces: [object Object]
-[2025-05-15T11:06:47.503Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:06:47.538Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:06:47.541Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:07:01.705Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:07:01.711Z] INFO: interfaces: [object Object]
-[2025-05-15T11:07:01.711Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:07:01.747Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:07:01.749Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:07:17.627Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:07:17.637Z] INFO: interfaces: [object Object]
-[2025-05-15T11:07:17.638Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:07:17.691Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:07:17.695Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:07:29.493Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:07:29.501Z] INFO: interfaces: [object Object]
-[2025-05-15T11:07:29.502Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:07:29.542Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:07:29.545Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:07:43.218Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:07:43.223Z] INFO: interfaces: [object Object]
-[2025-05-15T11:07:43.223Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:07:43.253Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:07:43.256Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:07:56.211Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:07:56.217Z] INFO: interfaces: [object Object]
-[2025-05-15T11:07:56.217Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:07:56.247Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:07:56.249Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:08:11.181Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:08:11.187Z] INFO: interfaces: [object Object]
-[2025-05-15T11:08:11.188Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:08:11.221Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:08:11.225Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:08:25.073Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:08:25.080Z] INFO: interfaces: [object Object]
-[2025-05-15T11:08:25.080Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:08:25.111Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:08:25.113Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:09:43.385Z] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[2025-05-15T11:09:43.385Z] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[2025-05-15T11:09:43.389Z] INFO: Decoded token: [object Object]
-[2025-05-15T11:09:43.399Z] INFO: loginUserId: 35
-[2025-05-15T11:09:43.410Z] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[2025-05-15T11:09:43.410Z] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[2025-05-15T11:09:43.411Z] INFO: Decoded token: [object Object]
-[2025-05-15T11:09:43.416Z] INFO: loginUserId: 35
-[15/5/2025, 16:42:01] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15/5/2025, 16:42:01] INFO: interfaces: [object Object]
-[15/5/2025, 16:42:01] INFO: Local IP:", 192.168.1.25
-[15/5/2025, 16:42:02] INFO: ✅ MongoDB connected
-[15/5/2025, 16:42:02] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:46:01] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:46:01] INFO: interfaces: [object Object]
-[15-05-2025 16:46:01] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:46:01] INFO: ✅ MongoDB connected
-[15-05-2025 16:46:01] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:47:10] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:47:10] INFO: interfaces: [object Object]
-[15-05-2025 16:47:10] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:47:10] INFO: ✅ MongoDB connected
-[15-05-2025 16:47:10] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:47:34] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:47:34] INFO: interfaces: Wi-Fi,Loopback Pseudo-Interface 1
-[15-05-2025 16:47:34] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:47:34] INFO: ✅ MongoDB connected
-[15-05-2025 16:47:34] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:47:36] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:47:36] INFO: interfaces: Wi-Fi,Loopback Pseudo-Interface 1
-[15-05-2025 16:47:36] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:47:36] INFO: ✅ MongoDB connected
-[15-05-2025 16:47:36] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:47:50] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:47:50] INFO: interfaces: [object Object],[object Object],[object Object],[object Object],[object Object],[object Object]
-[15-05-2025 16:47:50] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:47:50] INFO: ✅ MongoDB connected
-[15-05-2025 16:47:50] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:47:58] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:47:58] INFO: interfaces: [object Object]
-[15-05-2025 16:47:58] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:47:58] INFO: ✅ MongoDB connected
-[15-05-2025 16:47:58] INFO: 🚀  Server running at http://192.168.1.25:3005
-[2025-05-15T11:20:27.772Z] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[2025-05-15T11:20:27.777Z] INFO: interfaces: [object Object]
-[2025-05-15T11:20:27.778Z] INFO: Local IP:", 192.168.1.25
-[2025-05-15T11:20:27.805Z] INFO: ✅ MongoDB connected
-[2025-05-15T11:20:27.807Z] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:51:26] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:51:27] INFO: interfaces: [object Object]
-[15-05-2025 16:51:27] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:51:27] INFO: ✅ MongoDB connected
-[15-05-2025 16:51:27] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:51:38] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:51:38] INFO: interfaces: [object Object]
-[15-05-2025 16:51:38] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:51:38] INFO: ✅ MongoDB connected
-[15-05-2025 16:51:38] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:52:33] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:52:33] INFO: interfaces: [object Object]
-[15-05-2025 16:52:33] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:52:33] INFO: ✅ MongoDB connected
-[15-05-2025 16:52:33] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:52:42] ERROR: Error: CORS error: Origin not allowed by CORS policy
-    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
-    at D:\backend_node\node_modules\cors\lib\index.js:219:13
-    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
-    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
-    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
-    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
-    at D:\backend_node\node_modules\router\index.js:297:9
-    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
-    at next (D:\backend_node\node_modules\router\index.js:291:5)
-    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
-[15-05-2025 16:52:42] WARN: Status Code: 500
-[15-05-2025 16:52:42] ERROR: Error: CORS error: Origin not allowed by CORS policy
-    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
-    at D:\backend_node\node_modules\cors\lib\index.js:219:13
-    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
-    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
-    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
-    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
-    at D:\backend_node\node_modules\router\index.js:297:9
-    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
-    at next (D:\backend_node\node_modules\router\index.js:291:5)
-    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
-[15-05-2025 16:52:42] WARN: Status Code: 500
-[15-05-2025 16:53:16] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:53:16] INFO: interfaces: [object Object]
-[15-05-2025 16:53:16] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:53:16] INFO: ✅ MongoDB connected
-[15-05-2025 16:53:16] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:53:48] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:53:48] INFO: interfaces: [object Object]
-[15-05-2025 16:53:48] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:53:48] INFO: ✅ MongoDB connected
-[15-05-2025 16:53:48] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:53:50] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:53:50] INFO: interfaces: [object Object]
-[15-05-2025 16:53:50] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:53:50] INFO: ✅ MongoDB connected
-[15-05-2025 16:53:50] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:54:12] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:54:12] INFO: interfaces: [object Object]
-[15-05-2025 16:54:12] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:54:12] INFO: ✅ MongoDB connected
-[15-05-2025 16:54:12] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:54:15] ERROR: Error: CORS error: Origin not allowed by CORS policy
-    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
-    at D:\backend_node\node_modules\cors\lib\index.js:219:13
-    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
-    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
-    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
-    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
-    at D:\backend_node\node_modules\router\index.js:297:9
-    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
-    at next (D:\backend_node\node_modules\router\index.js:291:5)
-    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
-[15-05-2025 16:54:15] WARN: Status Code: 500
-[15-05-2025 16:54:15] ERROR: Error: CORS error: Origin not allowed by CORS policy
-    at origin (file:///D:/backend_node/config/cors.config.js:16:21)
-    at D:\backend_node\node_modules\cors\lib\index.js:219:13
-    at optionsCallback (D:\backend_node\node_modules\cors\lib\index.js:199:9)
-    at corsMiddleware (D:\backend_node\node_modules\cors\lib\index.js:204:7)
-    at Layer.handleRequest (D:\backend_node\node_modules\router\lib\layer.js:152:17)
-    at trimPrefix (D:\backend_node\node_modules\router\index.js:342:13)
-    at D:\backend_node\node_modules\router\index.js:297:9
-    at processParams (D:\backend_node\node_modules\router\index.js:582:12)
-    at next (D:\backend_node\node_modules\router\index.js:291:5)
-    at Function.handle (D:\backend_node\node_modules\router\index.js:186:3)
-[15-05-2025 16:54:15] WARN: Status Code: 500
-[15-05-2025 16:56:41] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:56:41] INFO: interfaces: [object Object]
-[15-05-2025 16:56:41] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:56:41] INFO: ✅ MongoDB connected
-[15-05-2025 16:56:41] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:57:57] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 16:57:57] INFO: interfaces: [object Object]
-[15-05-2025 16:57:57] INFO: Local IP:", 192.168.1.25
-[15-05-2025 16:57:57] INFO: ✅ MongoDB connected
-[15-05-2025 16:57:57] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 16:58:01] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 16:58:01] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 16:58:01] INFO: Decoded token: [object Object]
-[15-05-2025 16:58:01] INFO: loginUserId: 35
-[15-05-2025 16:58:01] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 16:58:01] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 16:58:01] INFO: Decoded token: [object Object]
-[15-05-2025 16:58:01] INFO: loginUserId: 35
-[15-05-2025 17:10:19] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 17:10:19] INFO: interfaces: [object Object]
-[15-05-2025 17:10:19] INFO: Local IP:", 192.168.1.25
-[15-05-2025 17:10:19] INFO: ✅ MongoDB connected
-[15-05-2025 17:10:19] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 17:10:20] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 17:10:20] INFO: interfaces: [object Object]
-[15-05-2025 17:10:20] INFO: Local IP:", 192.168.1.25
-[15-05-2025 17:10:20] INFO: ✅ MongoDB connected
-[15-05-2025 17:10:20] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 17:18:08] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:18:08] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:18:08] INFO: Decoded token: [object Object]
-[15-05-2025 17:18:08] INFO: existingUser: null
-[15-05-2025 17:18:08] INFO: loginUserId: 35
-[15-05-2025 17:18:08] INFO: req.user: [object Object]
-[15-05-2025 17:18:08] INFO: userData: [object Object]
-[15-05-2025 17:18:08] INFO: Next sequence value: {
+[16-05-2025 15:38:30] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 15:38:30] INFO: interfaces: [object Object]
+[16-05-2025 15:38:30] INFO: Local IP:", 192.168.1.25
+[16-05-2025 15:38:30] INFO: ✅ MongoDB connected
+[16-05-2025 15:38:30] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 15:39:59] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:39:59] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:39:59] INFO: Decoded token: 28
+[16-05-2025 15:39:59] INFO: loginUserId: 28
+[16-05-2025 15:39:59] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:39:59] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:39:59] INFO: Decoded token: 28
+[16-05-2025 15:39:59] INFO: loginUserId: 28
+[16-05-2025 15:40:18] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:18] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:18] INFO: Decoded token: 28
+[16-05-2025 15:40:18] INFO: loginUserId: 28
+[16-05-2025 15:40:18] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:18] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:18] INFO: Decoded token: 28
+[16-05-2025 15:40:18] INFO: loginUserId: 28
+[16-05-2025 15:40:22] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:22] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:22] INFO: Decoded token: 28
+[16-05-2025 15:40:22] INFO: loginUserId: 28
+[16-05-2025 15:40:22] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:22] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:40:22] INFO: Decoded token: 28
+[16-05-2025 15:40:22] INFO: loginUserId: 28
+[16-05-2025 15:45:17] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:45:17] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:45:17] INFO: Decoded token: 28
+[16-05-2025 15:45:17] INFO: loginUserId: 28
+[16-05-2025 15:45:17] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:45:17] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:45:17] INFO: Decoded token: 28
+[16-05-2025 15:45:17] INFO: loginUserId: 28
+[16-05-2025 15:48:47] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:48:47] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:48:47] INFO: Decoded token: 28
+[16-05-2025 15:48:47] INFO: loginUserId: 28
+[16-05-2025 15:48:47] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:48:47] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:48:47] INFO: Decoded token: 28
+[16-05-2025 15:48:47] INFO: loginUserId: 28
+[16-05-2025 15:50:56] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:50:56] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:50:56] INFO: Decoded token: 28
+[16-05-2025 15:50:56] INFO: loginUserId: 28
+[16-05-2025 15:50:56] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:50:56] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 15:50:56] INFO: Decoded token: 28
+[16-05-2025 15:50:56] INFO: loginUserId: 28
+[16-05-2025 16:12:25] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:12:25] INFO: interfaces: [object Object]
+[16-05-2025 16:12:25] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:12:25] INFO: ✅ MongoDB connected
+[16-05-2025 16:12:25] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:12:26] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:12:26] INFO: interfaces: [object Object]
+[16-05-2025 16:12:26] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:12:26] INFO: ✅ MongoDB connected
+[16-05-2025 16:12:26] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:16:42] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:16:42] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:16:42] INFO: Decoded token: 28
+[16-05-2025 16:16:42] INFO: loginUserId: 28
+[16-05-2025 16:16:42] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:16:42] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:16:42] INFO: Decoded token: 28
+[16-05-2025 16:16:42] INFO: loginUserId: 28
+[16-05-2025 16:18:59] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:18:59] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:18:59] INFO: Decoded token: 28
+[16-05-2025 16:18:59] INFO: loginUserId: 28
+[16-05-2025 16:18:59] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:18:59] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:18:59] INFO: Decoded token: 28
+[16-05-2025 16:18:59] INFO: loginUserId: 28
+[16-05-2025 16:19:56] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:19:56] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:19:56] INFO: Decoded token: 28
+[16-05-2025 16:20:09] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:20:09] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:20:09] INFO: Decoded token: 28
+[16-05-2025 16:20:09] INFO: existingUser: null
+[16-05-2025 16:20:09] INFO: loginUserId: 28
+[16-05-2025 16:20:09] INFO: req.user: [object Object]
+[16-05-2025 16:20:09] INFO: userData: [object Object]
+[16-05-2025 16:20:09] INFO: Next sequence value: {
   _id: new ObjectId('681d8e065d8e620093fad80a'),
   id: 'userId',
   __v: 0,
-  seq: 48
+  seq: 72
 }
-[15-05-2025 17:18:08] INFO: user: {
-  id: 48,
-  name: 'saniya',
-  email: 'saniya@mail.com',
-  age: 24,
-  loginUserId: 35,
-  createdAt: 2025-05-15T11:48:08.381Z,
-  updatedAt: 2025-05-15T11:48:08.381Z
+[16-05-2025 16:20:09] INFO: userCreated: {
+  id: 72,
+  name: 'kavita',
+  email: 'kavita@mail.com',
+  age: 27,
+  loginUserId: 28,
+  avatars: [
+    'uploads\\1747392609788-603985033-image (1).png',
+    'uploads\\1747392609792-486107591-istockphoto-1282071333-1024x1024.jpg'
+  ],
+  createdAt: 2025-05-16T10:50:09.814Z,
+  updatedAt: 2025-05-16T10:50:09.814Z
 }
-[15-05-2025 17:18:08] INFO: newUser: {
-  id: 48,
-  name: 'saniya',
-  email: 'saniya@mail.com',
-  age: 24,
-  loginUserId: 35,
-  createdAt: 2025-05-15T11:48:08.381Z,
-  updatedAt: 2025-05-15T11:48:08.381Z
+[16-05-2025 16:20:09] INFO: newUser: {
+  id: 72,
+  name: 'kavita',
+  email: 'kavita@mail.com',
+  age: 27,
+  loginUserId: 28,
+  avatars: [
+    'uploads\\1747392609788-603985033-image (1).png',
+    'uploads\\1747392609792-486107591-istockphoto-1282071333-1024x1024.jpg'
+  ],
+  createdAt: 2025-05-16T10:50:09.814Z,
+  updatedAt: 2025-05-16T10:50:09.814Z
 }
-[15-05-2025 17:18:34] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:18:34] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:18:34] INFO: Decoded token: [object Object]
-[15-05-2025 17:18:34] INFO: existingUser: {
-  id: 36,
-  name: 'Shivani',
-  email: 'shivani@mail.com',
-  age: 22,
-  loginUserId: 35,
-  createdAt: 2025-05-15T06:07:34.955Z,
-  updatedAt: 2025-05-15T06:09:32.365Z
-}
-[15-05-2025 17:20:21] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 17:20:21] INFO: interfaces: [object Object]
-[15-05-2025 17:20:21] INFO: Local IP:", 192.168.1.25
-[15-05-2025 17:20:21] INFO: ✅ MongoDB connected
-[15-05-2025 17:20:21] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 17:20:23] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 17:20:23] INFO: interfaces: [object Object]
-[15-05-2025 17:20:23] INFO: Local IP:", 192.168.1.25
-[15-05-2025 17:20:23] INFO: ✅ MongoDB connected
-[15-05-2025 17:20:23] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 17:21:15] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:21:15] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:21:15] INFO: Decoded token: [object Object]
-[15-05-2025 17:21:15] INFO: existingUser: {
-  id: 36,
-  name: 'Shivani',
-  email: 'shivani@mail.com',
-  age: 22,
-  loginUserId: 35,
-  createdAt: 2025-05-15T06:07:34.955Z,
-  updatedAt: 2025-05-15T06:09:32.365Z
-}
-[15-05-2025 17:21:16] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
-[15-05-2025 17:21:16] INFO: interfaces: [object Object]
-[15-05-2025 17:21:16] INFO: Local IP:", 192.168.1.25
-[15-05-2025 17:21:16] INFO: ✅ MongoDB connected
-[15-05-2025 17:21:16] INFO: 🚀  Server running at http://192.168.1.25:3005
-[15-05-2025 17:21:46] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:21:46] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MzUsImlhdCI6MTc0NzMwNDM4NCwiZXhwIjoxNzQ3OTA5MTg0fQ.Mxj_OoicdOmWqGafQ5Xvbx4tJb3MzDktYmrHMBB_5ps
-[15-05-2025 17:21:46] INFO: Decoded token: [object Object]
-[15-05-2025 17:21:46] INFO: existingUser: null
-[15-05-2025 17:21:46] INFO: loginUserId: 35
-[15-05-2025 17:21:46] INFO: req.user: [object Object]
-[15-05-2025 17:21:46] INFO: userData: [object Object]
-[15-05-2025 17:21:46] INFO: Next sequence value: {
+[16-05-2025 16:20:16] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:20:16] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:20:16] INFO: Decoded token: 28
+[16-05-2025 16:20:16] INFO: loginUserId: 28
+[16-05-2025 16:20:16] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:20:16] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:20:16] INFO: Decoded token: 28
+[16-05-2025 16:20:16] INFO: loginUserId: 28
+[16-05-2025 16:22:05] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:22:05] INFO: interfaces: [object Object]
+[16-05-2025 16:22:05] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:22:05] INFO: ✅ MongoDB connected
+[16-05-2025 16:22:05] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:22:08] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:22:08] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:22:08] INFO: Decoded token: 28
+[16-05-2025 16:22:08] INFO: query: [object Object]
+[16-05-2025 16:22:08] INFO: excludeId: 72
+[16-05-2025 16:22:08] INFO: exists:  false
+[16-05-2025 16:23:10] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:23:10] INFO: interfaces: [object Object]
+[16-05-2025 16:23:10] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:23:10] INFO: ✅ MongoDB connected
+[16-05-2025 16:23:10] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:23:11] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:23:11] INFO: interfaces: [object Object]
+[16-05-2025 16:23:11] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:23:11] INFO: ✅ MongoDB connected
+[16-05-2025 16:23:11] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:23:21] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:23:21] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:23:21] INFO: Decoded token: 28
+[16-05-2025 16:23:21] INFO: loginUserId: 28
+[16-05-2025 16:23:21] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:23:21] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:23:21] INFO: Decoded token: 28
+[16-05-2025 16:23:21] INFO: loginUserId: 28
+[16-05-2025 16:23:49] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:23:49] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:23:49] INFO: Decoded token: 28
+[16-05-2025 16:23:49] INFO: existingUser: null
+[16-05-2025 16:23:49] INFO: loginUserId: 28
+[16-05-2025 16:23:49] INFO: req.user: [object Object]
+[16-05-2025 16:23:49] INFO: userData: [object Object]
+[16-05-2025 16:23:49] INFO: Next sequence value: {
   _id: new ObjectId('681d8e065d8e620093fad80a'),
   id: 'userId',
   __v: 0,
-  seq: 49
+  seq: 73
 }
-[15-05-2025 17:21:46] INFO: user: {
-  id: 49,
+[16-05-2025 16:23:49] INFO: userCreated: {
+  id: 73,
+  name: 'sara',
+  email: 'sara@gmail.com',
+  age: 22,
+  loginUserId: 28,
+  avatars: [
+    'uploads\\download-compresskaru.com.png',
+    'uploads\\germany-berlin-mall-of-berlin-mall-thumbnail.jpg',
+    'uploads\\photo-1522684462852-01b24e76b77d.jpg',
+    'uploads\\pngtree-the-crowd-was-in-the-atrium-of-the-shopping-mall-image_996474.jpg',
+    'uploads\\shopping-mall-906721_640.jpg'
+  ],
+  createdAt: 2025-05-16T10:53:49.274Z,
+  updatedAt: 2025-05-16T10:53:49.274Z
+}
+[16-05-2025 16:23:49] INFO: newUser: {
+  id: 73,
+  name: 'sara',
+  email: 'sara@gmail.com',
+  age: 22,
+  loginUserId: 28,
+  avatars: [
+    'uploads\\download-compresskaru.com.png',
+    'uploads\\germany-berlin-mall-of-berlin-mall-thumbnail.jpg',
+    'uploads\\photo-1522684462852-01b24e76b77d.jpg',
+    'uploads\\pngtree-the-crowd-was-in-the-atrium-of-the-shopping-mall-image_996474.jpg',
+    'uploads\\shopping-mall-906721_640.jpg'
+  ],
+  createdAt: 2025-05-16T10:53:49.274Z,
+  updatedAt: 2025-05-16T10:53:49.274Z
+}
+[16-05-2025 16:24:10] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:10] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:10] INFO: Decoded token: 28
+[16-05-2025 16:24:10] INFO: query: [object Object]
+[16-05-2025 16:24:10] INFO: excludeId: 73
+[16-05-2025 16:24:10] INFO: exists:  false
+[16-05-2025 16:24:16] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:16] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:16] INFO: Decoded token: 28
+[16-05-2025 16:24:16] INFO: loginUserId: 28
+[16-05-2025 16:24:16] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:16] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:16] INFO: Decoded token: 28
+[16-05-2025 16:24:16] INFO: loginUserId: 28
+[16-05-2025 16:24:55] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:55] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:24:55] INFO: Decoded token: 28
+[16-05-2025 16:25:33] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:25:33] INFO: interfaces: [object Object]
+[16-05-2025 16:25:33] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:25:33] INFO: ✅ MongoDB connected
+[16-05-2025 16:25:33] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:25:35] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:25:35] INFO: interfaces: [object Object]
+[16-05-2025 16:25:35] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:25:35] INFO: ✅ MongoDB connected
+[16-05-2025 16:25:35] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:25:38] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:25:38] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:25:38] INFO: Decoded token: 28
+[16-05-2025 16:28:06] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:28:06] INFO: interfaces: [object Object]
+[16-05-2025 16:28:06] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:28:06] INFO: ✅ MongoDB connected
+[16-05-2025 16:28:06] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:28:10] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:28:10] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:28:10] INFO: Decoded token: 28
+[16-05-2025 16:28:17] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:28:17] INFO: interfaces: [object Object]
+[16-05-2025 16:28:17] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:28:17] INFO: ✅ MongoDB connected
+[16-05-2025 16:28:17] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:28:46] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:28:46] INFO: interfaces: [object Object]
+[16-05-2025 16:28:46] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:28:46] INFO: ✅ MongoDB connected
+[16-05-2025 16:28:46] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:28:49] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:28:49] INFO: interfaces: [object Object]
+[16-05-2025 16:28:49] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:28:49] INFO: ✅ MongoDB connected
+[16-05-2025 16:28:49] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:29:46] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:29:46] INFO: interfaces: [object Object]
+[16-05-2025 16:29:46] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:29:46] INFO: ✅ MongoDB connected
+[16-05-2025 16:29:46] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:29:47] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:29:47] INFO: interfaces: [object Object]
+[16-05-2025 16:29:47] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:29:47] INFO: ✅ MongoDB connected
+[16-05-2025 16:29:47] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:31:56] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:31:56] INFO: interfaces: [object Object]
+[16-05-2025 16:31:56] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:31:56] INFO: ✅ MongoDB connected
+[16-05-2025 16:31:56] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:32:09] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:32:09] INFO: interfaces: [object Object]
+[16-05-2025 16:32:09] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:32:09] INFO: ✅ MongoDB connected
+[16-05-2025 16:32:09] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:32:14] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:32:14] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:32:14] INFO: Decoded token: 28
+[16-05-2025 16:32:14] INFO: loginUserId: 28
+[16-05-2025 16:32:14] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:32:14] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:32:14] INFO: Decoded token: 28
+[16-05-2025 16:32:14] INFO: loginUserId: 28
+[16-05-2025 16:32:27] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:32:27] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:32:27] INFO: Decoded token: 28
+[16-05-2025 16:33:30] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:30] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:30] INFO: Decoded token: 28
+[16-05-2025 16:33:30] INFO: loginUserId: 28
+[16-05-2025 16:33:36] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:36] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:36] INFO: Decoded token: 28
+[16-05-2025 16:33:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:45] INFO: Decoded token: 28
+[16-05-2025 16:33:49] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:49] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:49] INFO: Decoded token: 28
+[16-05-2025 16:33:49] INFO: loginUserId: 28
+[16-05-2025 16:33:49] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:49] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:49] INFO: Decoded token: 28
+[16-05-2025 16:33:49] INFO: loginUserId: 28
+[16-05-2025 16:33:58] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:58] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:33:58] INFO: Decoded token: 28
+[16-05-2025 16:34:06] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:34:06] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:34:06] INFO: Decoded token: 28
+[16-05-2025 16:34:42] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:34:42] INFO: interfaces: [object Object]
+[16-05-2025 16:34:42] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:34:42] INFO: ✅ MongoDB connected
+[16-05-2025 16:34:42] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:35:01] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:35:01] INFO: interfaces: [object Object]
+[16-05-2025 16:35:01] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:35:01] INFO: ✅ MongoDB connected
+[16-05-2025 16:35:01] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:35:09] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:35:09] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:35:09] INFO: Decoded token: 28
+[16-05-2025 16:35:09] INFO: loginUserId: 28
+[16-05-2025 16:35:09] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:35:09] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:35:09] INFO: Decoded token: 28
+[16-05-2025 16:35:09] INFO: loginUserId: 28
+[16-05-2025 16:35:14] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:35:14] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:35:14] INFO: Decoded token: 28
+[16-05-2025 16:35:14] INFO: query: [object Object]
+[16-05-2025 16:35:14] INFO: excludeId: 72
+[16-05-2025 16:35:14] INFO: exists:  false
+[16-05-2025 16:36:13] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:36:13] INFO: interfaces: [object Object]
+[16-05-2025 16:36:13] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:36:13] INFO: ✅ MongoDB connected
+[16-05-2025 16:36:13] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:36:15] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:36:15] INFO: interfaces: [object Object]
+[16-05-2025 16:36:15] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:36:15] INFO: ✅ MongoDB connected
+[16-05-2025 16:36:15] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:36:23] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:36:23] INFO: interfaces: [object Object]
+[16-05-2025 16:36:23] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:36:23] INFO: ✅ MongoDB connected
+[16-05-2025 16:36:23] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:36:30] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:36:30] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:36:30] INFO: Decoded token: 28
+[16-05-2025 16:36:30] INFO: query: [object Object]
+[16-05-2025 16:36:30] INFO: excludeId: 72
+[16-05-2025 16:36:30] INFO: exists:  false
+[16-05-2025 16:36:39] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:36:39] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:36:39] INFO: Decoded token: 28
+[16-05-2025 16:36:39] INFO: query: [object Object]
+[16-05-2025 16:36:39] INFO: excludeId: 72
+[16-05-2025 16:36:39] INFO: exists:  false
+[16-05-2025 16:39:01] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:39:01] INFO: interfaces: [object Object]
+[16-05-2025 16:39:01] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:39:01] INFO: ✅ MongoDB connected
+[16-05-2025 16:39:01] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:39:06] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:39:06] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:39:06] INFO: Decoded token: 28
+[16-05-2025 16:39:06] INFO: loginUserId: 28
+[16-05-2025 16:39:06] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:39:06] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:39:06] INFO: Decoded token: 28
+[16-05-2025 16:39:06] INFO: loginUserId: 28
+[16-05-2025 16:39:15] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:39:15] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:39:15] INFO: Decoded token: 28
+[16-05-2025 16:39:15] INFO: query: [object Object]
+[16-05-2025 16:39:15] INFO: excludeId: 72
+[16-05-2025 16:39:15] INFO: exists:  false
+[16-05-2025 16:39:43] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 16:39:43] INFO: interfaces: [object Object]
+[16-05-2025 16:39:43] INFO: Local IP:", 192.168.1.25
+[16-05-2025 16:39:43] INFO: ✅ MongoDB connected
+[16-05-2025 16:39:43] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 16:43:01] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:43:01] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:43:01] INFO: Decoded token: 28
+[16-05-2025 16:43:01] INFO: loginUserId: 28
+[16-05-2025 16:43:01] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:43:01] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:43:01] INFO: Decoded token: 28
+[16-05-2025 16:43:01] INFO: loginUserId: 28
+[16-05-2025 16:46:37] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:46:37] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:46:37] INFO: Decoded token: 28
+[16-05-2025 16:46:37] INFO: loginUserId: 28
+[16-05-2025 16:46:37] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:46:37] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:46:37] INFO: Decoded token: 28
+[16-05-2025 16:46:37] INFO: loginUserId: 28
+[16-05-2025 16:51:32] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:32] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:32] INFO: Decoded token: 28
+[16-05-2025 16:51:32] INFO: loginUserId: 28
+[16-05-2025 16:51:32] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:32] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:32] INFO: Decoded token: 28
+[16-05-2025 16:51:32] INFO: loginUserId: 28
+[16-05-2025 16:51:40] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:40] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:40] INFO: Decoded token: 28
+[16-05-2025 16:51:40] INFO: loginUserId: 28
+[16-05-2025 16:51:40] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:40] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:40] INFO: Decoded token: 28
+[16-05-2025 16:51:40] INFO: loginUserId: 28
+[16-05-2025 16:51:47] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:47] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:47] INFO: Decoded token: 28
+[16-05-2025 16:51:47] INFO: loginUserId: 28
+[16-05-2025 16:51:47] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:47] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:51:47] INFO: Decoded token: 28
+[16-05-2025 16:51:47] INFO: loginUserId: 28
+[16-05-2025 16:54:51] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:54:51] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:54:51] INFO: Decoded token: 28
+[16-05-2025 16:54:51] INFO: loginUserId: 28
+[16-05-2025 16:54:51] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:54:51] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:54:51] INFO: Decoded token: 28
+[16-05-2025 16:54:51] INFO: loginUserId: 28
+[16-05-2025 16:56:42] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:56:42] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:56:42] INFO: Decoded token: 28
+[16-05-2025 16:56:42] INFO: loginUserId: 28
+[16-05-2025 16:56:42] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:56:42] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 16:56:42] INFO: Decoded token: 28
+[16-05-2025 16:56:42] INFO: loginUserId: 28
+[16-05-2025 17:03:06] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:06] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:06] INFO: Decoded token: 28
+[16-05-2025 17:03:06] INFO: loginUserId: 28
+[16-05-2025 17:03:06] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:06] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:06] INFO: Decoded token: 28
+[16-05-2025 17:03:06] INFO: loginUserId: 28
+[16-05-2025 17:03:22] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:22] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:22] INFO: Decoded token: 28
+[16-05-2025 17:03:22] INFO: loginUserId: 28
+[16-05-2025 17:03:22] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:22] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:03:22] INFO: Decoded token: 28
+[16-05-2025 17:03:22] INFO: loginUserId: 28
+[16-05-2025 17:11:33] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:11:33] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:11:33] INFO: Decoded token: 28
+[16-05-2025 17:11:33] INFO: loginUserId: 28
+[16-05-2025 17:11:33] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:11:33] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:11:33] INFO: Decoded token: 28
+[16-05-2025 17:11:33] INFO: loginUserId: 28
+[16-05-2025 17:24:43] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 17:24:43] INFO: interfaces: [object Object]
+[16-05-2025 17:24:43] INFO: Local IP:", 192.168.1.25
+[16-05-2025 17:24:43] INFO: ✅ MongoDB connected
+[16-05-2025 17:24:45] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 17:24:45] INFO: interfaces: [object Object]
+[16-05-2025 17:24:45] INFO: Local IP:", 192.168.1.25
+[16-05-2025 17:24:46] INFO: ✅ MongoDB connected
+[16-05-2025 17:24:46] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 17:24:48] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:24:48] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:24:48] INFO: Decoded token: 28
+[16-05-2025 17:24:48] INFO: numericId: 73
+[16-05-2025 17:24:48] INFO: deletedUser: {
+  id: 73,
+  name: 'sara',
+  email: 'sara@gmail.com',
+  age: 22,
+  loginUserId: 28,
+  avatars: [ 'uploads\\image.png' ],
+  createdAt: 2025-05-16T10:53:49.274Z,
+  updatedAt: 2025-05-16T10:54:10.095Z
+}
+[16-05-2025 17:24:50] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:24:50] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:24:50] INFO: Decoded token: 28
+[16-05-2025 17:24:50] INFO: numericId: 72
+[16-05-2025 17:24:50] INFO: deletedUser: {
+  id: 72,
+  name: 'kavita',
+  email: 'kavita@mail.com',
+  age: 27,
+  loginUserId: 28,
+  avatars: [
+    'uploads\\1747393755208-822308100-download-compresskaru.com - Copy.png',
+    'uploads\\1747393755211-561785781-download-compresskaru.com.png'
+  ],
+  createdAt: 2025-05-16T10:50:09.814Z,
+  updatedAt: 2025-05-16T11:09:15.231Z
+}
+[16-05-2025 17:24:50] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:24:50] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:24:50] INFO: Decoded token: 28
+[16-05-2025 17:24:50] INFO: numericId: 71
+[16-05-2025 17:24:50] INFO: deletedUser: {
+  id: 71,
+  name: 'Ritz',
+  email: 'ritz@mail.com',
+  age: 18,
+  loginUserId: 28,
+  avatars: [
+    'uploads\\1747389692242-78505962-photo-1522684462852-01b24e76b77d.jpg',
+    'uploads\\1747389692252-505039298-shopping-mall-906721_640.jpg'
+  ],
+  createdAt: 2025-05-16T09:31:07.564Z,
+  updatedAt: 2025-05-16T10:01:32.275Z
+}
+[16-05-2025 17:25:03] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 17:25:03] INFO: interfaces: [object Object]
+[16-05-2025 17:25:03] INFO: Local IP:", 192.168.1.25
+[16-05-2025 17:25:03] INFO: ✅ MongoDB connected
+[16-05-2025 17:25:03] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 17:25:29] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[16-05-2025 17:25:29] INFO: interfaces: [object Object]
+[16-05-2025 17:25:29] INFO: Local IP:", 192.168.1.25
+[16-05-2025 17:25:29] INFO: ✅ MongoDB connected
+[16-05-2025 17:25:29] INFO: 🚀  Server running at http://192.168.1.25:3005
+[16-05-2025 17:26:08] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:08] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:08] INFO: Decoded token: 28
+[16-05-2025 17:26:08] INFO: loginUserId: 28
+[16-05-2025 17:26:08] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:08] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:08] INFO: Decoded token: 28
+[16-05-2025 17:26:08] INFO: loginUserId: 28
+[16-05-2025 17:26:21] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:21] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:21] INFO: Decoded token: 28
+[16-05-2025 17:26:21] INFO: existingUser: null
+[16-05-2025 17:26:21] INFO: loginUserId: 28
+[16-05-2025 17:26:21] INFO: req.user: [object Object]
+[16-05-2025 17:26:21] INFO: userData: [object Object]
+[16-05-2025 17:26:21] INFO: Next sequence value: {
+  _id: new ObjectId('681d8e065d8e620093fad80a'),
+  id: 'userId',
+  __v: 0,
+  seq: 74
+}
+[16-05-2025 17:26:21] INFO: userCreated: {
+  id: 74,
   name: 'Shivani',
-  email: 'shivani963@mail.com',
-  age: 29,
-  loginUserId: 35,
-  createdAt: 2025-05-15T11:51:46.170Z,
-  updatedAt: 2025-05-15T11:51:46.170Z
+  email: 'shivani@mail.com',
+  age: 20,
+  loginUserId: 28,
+  avatars: [
+    'http://192.168.1.25:3005/uploads\\1747396581397-459795390-pngtree-the-crowd-was-in-the-atrium-of-the-shopping-mall-image_996474.jpg'
+  ],
+  createdAt: 2025-05-16T11:56:21.419Z,
+  updatedAt: 2025-05-16T11:56:21.419Z
 }
-[15-05-2025 17:21:46] INFO: newUser: {
-  id: 49,
+[16-05-2025 17:26:21] INFO: newUser: {
+  id: 74,
   name: 'Shivani',
-  email: 'shivani963@mail.com',
-  age: 29,
-  loginUserId: 35,
-  createdAt: 2025-05-15T11:51:46.170Z,
-  updatedAt: 2025-05-15T11:51:46.170Z
+  email: 'shivani@mail.com',
+  age: 20,
+  loginUserId: 28,
+  avatars: [
+    'http://192.168.1.25:3005/uploads\\1747396581397-459795390-pngtree-the-crowd-was-in-the-atrium-of-the-shopping-mall-image_996474.jpg'
+  ],
+  createdAt: 2025-05-16T11:56:21.419Z,
+  updatedAt: 2025-05-16T11:56:21.419Z
 }
+[16-05-2025 17:26:44] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:44] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:44] INFO: Decoded token: 28
+[16-05-2025 17:26:44] INFO: loginUserId: 28
+[16-05-2025 17:26:44] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:44] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:44] INFO: Decoded token: 28
+[16-05-2025 17:26:44] INFO: loginUserId: 28
+[16-05-2025 17:26:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Decoded token: 28
+[16-05-2025 17:26:45] INFO: loginUserId: 28
+[16-05-2025 17:26:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Decoded token: 28
+[16-05-2025 17:26:45] INFO: loginUserId: 28
+[16-05-2025 17:26:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Decoded token: 28
+[16-05-2025 17:26:45] INFO: loginUserId: 28
+[16-05-2025 17:26:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Decoded token: 28
+[16-05-2025 17:26:45] INFO: loginUserId: 28
+[16-05-2025 17:26:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Decoded token: 28
+[16-05-2025 17:26:45] INFO: loginUserId: 28
+[16-05-2025 17:26:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:26:45] INFO: Decoded token: 28
+[16-05-2025 17:26:45] INFO: loginUserId: 28
+[16-05-2025 17:35:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:35:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:35:45] INFO: Decoded token: 28
+[16-05-2025 17:35:45] INFO: loginUserId: 28
+[16-05-2025 17:35:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:35:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:35:45] INFO: Decoded token: 28
+[16-05-2025 17:35:45] INFO: loginUserId: 28
+[16-05-2025 17:37:18] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:37:18] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:37:18] INFO: Decoded token: 28
+[16-05-2025 17:37:18] INFO: loginUserId: 28
+[16-05-2025 17:37:18] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:37:18] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:37:18] INFO: Decoded token: 28
+[16-05-2025 17:37:18] INFO: loginUserId: 28
+[16-05-2025 17:40:20] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:20] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:20] INFO: Decoded token: 28
+[16-05-2025 17:40:20] INFO: loginUserId: 28
+[16-05-2025 17:40:20] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:20] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:20] INFO: Decoded token: 28
+[16-05-2025 17:40:20] INFO: loginUserId: 28
+[16-05-2025 17:40:56] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:56] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:56] INFO: Decoded token: 28
+[16-05-2025 17:40:56] INFO: loginUserId: 28
+[16-05-2025 17:40:56] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:56] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:40:56] INFO: Decoded token: 28
+[16-05-2025 17:40:56] INFO: loginUserId: 28
+[16-05-2025 17:42:58] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:42:58] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:42:58] INFO: Decoded token: 28
+[16-05-2025 17:42:58] INFO: loginUserId: 28
+[16-05-2025 17:42:58] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:42:58] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:42:58] INFO: Decoded token: 28
+[16-05-2025 17:42:58] INFO: loginUserId: 28
+[16-05-2025 17:43:05] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:05] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:05] INFO: Decoded token: 28
+[16-05-2025 17:43:05] INFO: loginUserId: 28
+[16-05-2025 17:43:05] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:05] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:05] INFO: Decoded token: 28
+[16-05-2025 17:43:05] INFO: loginUserId: 28
+[16-05-2025 17:43:47] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:47] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:47] INFO: Decoded token: 28
+[16-05-2025 17:43:47] INFO: loginUserId: 28
+[16-05-2025 17:43:47] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:47] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:43:47] INFO: Decoded token: 28
+[16-05-2025 17:43:47] INFO: loginUserId: 28
+[16-05-2025 17:44:06] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:44:06] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:44:06] INFO: Decoded token: 28
+[16-05-2025 17:44:06] INFO: loginUserId: 28
+[16-05-2025 17:44:06] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:44:06] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[16-05-2025 17:44:06] INFO: Decoded token: 28
+[16-05-2025 17:44:06] INFO: loginUserId: 28
+[19-05-2025 09:41:18] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 09:41:18] INFO: interfaces: [object Object]
+[19-05-2025 09:41:18] INFO: Local IP:", 192.168.1.25
+[19-05-2025 09:41:18] INFO: ✅ MongoDB connected
+[19-05-2025 09:41:18] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 09:48:30] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 09:48:30] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 09:48:30] INFO: Decoded token: 28
+[19-05-2025 09:48:30] INFO: loginUserId: 28
+[19-05-2025 09:48:30] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 09:48:30] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 09:48:30] INFO: Decoded token: 28
+[19-05-2025 09:48:30] INFO: loginUserId: 28
+[19-05-2025 12:17:13] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:17:13] INFO: interfaces: [object Object]
+[19-05-2025 12:17:13] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:17:13] INFO: ✅ MongoDB connected
+[19-05-2025 12:17:13] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:17:13] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:13] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:13] INFO: Decoded token: 28
+[19-05-2025 12:17:13] INFO: loginUserId: 28
+[19-05-2025 12:17:14] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:17:14] INFO: interfaces: [object Object]
+[19-05-2025 12:17:14] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:17:14] INFO: ✅ MongoDB connected
+[19-05-2025 12:17:14] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:17:14] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:14] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:14] INFO: Decoded token: 28
+[19-05-2025 12:17:14] INFO: loginUserId: 28
+[19-05-2025 12:17:14] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:14] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:14] INFO: Decoded token: 28
+[19-05-2025 12:17:14] INFO: loginUserId: 28
+[19-05-2025 12:17:36] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:36] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:36] INFO: Decoded token: 28
+[19-05-2025 12:17:36] INFO: loginUserId: 28
+[19-05-2025 12:17:36] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:36] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:36] INFO: Decoded token: 28
+[19-05-2025 12:17:36] INFO: loginUserId: 28
+[19-05-2025 12:17:36] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:36] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:17:36] INFO: Decoded token: 28
+[19-05-2025 12:17:36] INFO: loginUserId: 28
+[19-05-2025 12:18:09] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:18:09] INFO: interfaces: [object Object]
+[19-05-2025 12:18:09] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:18:09] INFO: ✅ MongoDB connected
+[19-05-2025 12:18:09] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:18:26] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:18:26] INFO: interfaces: [object Object]
+[19-05-2025 12:18:26] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:18:26] INFO: ✅ MongoDB connected
+[19-05-2025 12:18:26] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:19:06] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:19:06] INFO: interfaces: [object Object]
+[19-05-2025 12:19:06] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:19:06] INFO: ✅ MongoDB connected
+[19-05-2025 12:19:06] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:19:18] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:19:18] INFO: interfaces: [object Object]
+[19-05-2025 12:19:18] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:19:18] INFO: ✅ MongoDB connected
+[19-05-2025 12:19:18] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:22:10] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:22:10] INFO: interfaces: [object Object]
+[19-05-2025 12:22:10] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:22:10] INFO: ✅ MongoDB connected
+[19-05-2025 12:22:10] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:23:25] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:23:25] INFO: interfaces: [object Object]
+[19-05-2025 12:23:25] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:23:25] INFO: ✅ MongoDB connected
+[19-05-2025 12:23:25] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:23:26] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:23:26] INFO: interfaces: [object Object]
+[19-05-2025 12:23:26] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:23:26] INFO: ✅ MongoDB connected
+[19-05-2025 12:23:26] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:23:32] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:23:32] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:23:32] INFO: Decoded token: 28
+[19-05-2025 12:23:32] INFO: loginUserId: 28
+[19-05-2025 12:23:32] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:23:32] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:23:32] INFO: Decoded token: 28
+[19-05-2025 12:23:32] INFO: loginUserId: 28
+[19-05-2025 12:28:42] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:28:42] INFO: interfaces: [object Object]
+[19-05-2025 12:28:42] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:28:42] INFO: ✅ MongoDB connected
+[19-05-2025 12:28:42] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:29:06] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:29:07] INFO: interfaces: [object Object]
+[19-05-2025 12:29:07] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:29:07] INFO: ✅ MongoDB connected
+[19-05-2025 12:29:07] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:29:37] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:29:37] INFO: interfaces: [object Object]
+[19-05-2025 12:29:37] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:29:37] INFO: ✅ MongoDB connected
+[19-05-2025 12:29:37] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:29:39] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:29:39] INFO: interfaces: [object Object]
+[19-05-2025 12:29:39] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:29:39] INFO: ✅ MongoDB connected
+[19-05-2025 12:29:39] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:35:18] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:35:18] INFO: interfaces: [object Object]
+[19-05-2025 12:35:18] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:35:18] INFO: ✅ MongoDB connected
+[19-05-2025 12:35:18] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:35:53] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:35:53] INFO: interfaces: [object Object]
+[19-05-2025 12:35:53] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:35:53] INFO: ✅ MongoDB connected
+[19-05-2025 12:35:53] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:35:54] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:35:54] INFO: interfaces: [object Object]
+[19-05-2025 12:35:54] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:35:54] INFO: ✅ MongoDB connected
+[19-05-2025 12:35:54] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:40:15] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:40:15] INFO: interfaces: [object Object]
+[19-05-2025 12:40:15] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:40:15] INFO: ✅ MongoDB connected
+[19-05-2025 12:40:15] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:40:19] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:40:19] INFO: interfaces: [object Object]
+[19-05-2025 12:40:19] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:40:19] INFO: ✅ MongoDB connected
+[19-05-2025 12:40:19] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:40:34] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:40:34] INFO: interfaces: [object Object]
+[19-05-2025 12:40:34] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:40:34] INFO: ✅ MongoDB connected
+[19-05-2025 12:40:34] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:40:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:40:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:40:45] INFO: Decoded token: 28
+[19-05-2025 12:40:45] INFO: loginUserId: 28
+[19-05-2025 12:40:45] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:40:45] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:40:45] INFO: Decoded token: 28
+[19-05-2025 12:40:45] INFO: loginUserId: 28
+[19-05-2025 12:47:08] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:47:08] INFO: interfaces: [object Object]
+[19-05-2025 12:47:08] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:47:08] INFO: ✅ MongoDB connected
+[19-05-2025 12:47:08] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:47:24] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:47:24] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:47:24] INFO: Decoded token: 28
+[19-05-2025 12:47:24] INFO: loginUserId: 28
+[19-05-2025 12:49:02] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:49:02] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:49:02] INFO: Decoded token: 28
+[19-05-2025 12:49:02] INFO: existingUser: null
+[19-05-2025 12:49:02] INFO: loginUserId: 28
+[19-05-2025 12:49:02] INFO: req.user: [object Object]
+[19-05-2025 12:49:02] INFO: userData: [object Object]
+[19-05-2025 12:49:02] INFO: Next sequence value: {
+  _id: new ObjectId('681d8e065d8e620093fad80a'),
+  id: 'userId',
+  __v: 0,
+  seq: 75
+}
+[19-05-2025 12:49:02] INFO: userCreated: {
+  id: 75,
+  name: 'john',
+  email: 'john@mial.com',
+  age: 20,
+  loginUserId: 28,
+  avatars: [
+    'http://192.168.1.25:3005/uploads\\1747639142440-436548420-download-compresskaru.com - Copy - Copy.png',
+    'http://192.168.1.25:3005/uploads\\1747639142444-934283778-download-compresskaru.com - Copy.png',
+    'http://192.168.1.25:3005/uploads\\1747639142448-37277047-download-compresskaru.com.png',
+    'http://192.168.1.25:3005/uploads\\1747639142454-209461191-germany-berlin-mall-of-berlin-mall-thumbnail.jpg'
+  ],
+  createdAt: 2025-05-19T07:19:02.501Z,
+  updatedAt: 2025-05-19T07:19:02.501Z
+}
+[19-05-2025 12:49:02] INFO: newUser: {
+  id: 75,
+  name: 'john',
+  email: 'john@mial.com',
+  age: 20,
+  loginUserId: 28,
+  avatars: [
+    'http://192.168.1.25:3005/uploads\\1747639142440-436548420-download-compresskaru.com - Copy - Copy.png',
+    'http://192.168.1.25:3005/uploads\\1747639142444-934283778-download-compresskaru.com - Copy.png',
+    'http://192.168.1.25:3005/uploads\\1747639142448-37277047-download-compresskaru.com.png',
+    'http://192.168.1.25:3005/uploads\\1747639142454-209461191-germany-berlin-mall-of-berlin-mall-thumbnail.jpg'
+  ],
+  createdAt: 2025-05-19T07:19:02.501Z,
+  updatedAt: 2025-05-19T07:19:02.501Z
+}
+[19-05-2025 12:50:11] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:50:11] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:50:11] INFO: Decoded token: 28
+[19-05-2025 12:50:11] INFO: loginUserId: 28
+[19-05-2025 12:55:11] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:11] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:11] INFO: Decoded token: 28
+[19-05-2025 12:55:11] INFO: loginUserId: 28
+[19-05-2025 12:55:11] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:11] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:11] INFO: Decoded token: 28
+[19-05-2025 12:55:11] INFO: loginUserId: 28
+[19-05-2025 12:55:39] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:39] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:39] INFO: Decoded token: 28
+[19-05-2025 12:55:39] INFO: loginUserId: 28
+[19-05-2025 12:55:39] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:39] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:55:39] INFO: Decoded token: 28
+[19-05-2025 12:55:39] INFO: loginUserId: 28
+[19-05-2025 12:57:25] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 12:57:25] INFO: interfaces: [object Object]
+[19-05-2025 12:57:25] INFO: Local IP:", 192.168.1.25
+[19-05-2025 12:57:25] INFO: ✅ MongoDB connected
+[19-05-2025 12:57:25] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 12:57:36] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:36] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:36] INFO: Decoded token: 28
+[19-05-2025 12:57:36] INFO: loginUserId: 28
+[19-05-2025 12:57:36] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:36] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:36] INFO: Decoded token: 28
+[19-05-2025 12:57:36] INFO: loginUserId: 28
+[19-05-2025 12:57:40] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:40] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:40] INFO: Decoded token: 28
+[19-05-2025 12:57:40] INFO: loginUserId: 28
+[19-05-2025 12:57:40] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:40] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:40] INFO: Decoded token: 28
+[19-05-2025 12:57:40] INFO: loginUserId: 28
+[19-05-2025 12:57:46] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:46] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:46] INFO: Decoded token: 28
+[19-05-2025 12:57:46] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:46] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:46] INFO: Decoded token: 28
+[19-05-2025 12:57:46] INFO: loginUserId: 28
+[19-05-2025 12:57:46] INFO: loginUserId: 28
+[19-05-2025 12:57:50] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:50] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:50] INFO: Decoded token: 28
+[19-05-2025 12:57:50] INFO: loginUserId: 28
+[19-05-2025 12:57:50] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:50] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:50] INFO: Decoded token: 28
+[19-05-2025 12:57:50] INFO: loginUserId: 28
+[19-05-2025 12:57:57] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:57] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:57] INFO: Decoded token: 28
+[19-05-2025 12:57:57] INFO: loginUserId: 28
+[19-05-2025 12:57:57] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:57] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:57:57] INFO: Decoded token: 28
+[19-05-2025 12:57:57] INFO: loginUserId: 28
+[19-05-2025 12:58:12] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:58:12] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:58:12] INFO: Decoded token: 28
+[19-05-2025 12:58:12] INFO: loginUserId: 28
+[19-05-2025 12:58:12] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:58:12] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 12:58:12] INFO: Decoded token: 28
+[19-05-2025 12:58:12] INFO: loginUserId: 28
+[19-05-2025 14:09:01] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 14:09:01] INFO: interfaces: [object Object]
+[19-05-2025 14:09:01] INFO: Local IP:", 192.168.1.25
+[19-05-2025 14:09:01] INFO: ✅ MongoDB connected
+[19-05-2025 14:09:01] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 14:09:02] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 14:09:02] INFO: interfaces: [object Object]
+[19-05-2025 14:09:02] INFO: Local IP:", 192.168.1.25
+[19-05-2025 14:09:02] INFO: ✅ MongoDB connected
+[19-05-2025 14:09:02] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 14:09:07] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:07] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:07] INFO: Decoded token: 28
+[19-05-2025 14:09:07] INFO: loginUserId: 28
+[19-05-2025 14:09:07] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:07] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:07] INFO: Decoded token: 28
+[19-05-2025 14:09:07] INFO: loginUserId: 28
+[19-05-2025 14:09:52] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:52] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:52] INFO: Decoded token: 28
+[19-05-2025 14:09:52] INFO: loginUserId: 28
+[19-05-2025 14:09:52] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:52] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 14:09:52] INFO: Decoded token: 28
+[19-05-2025 14:09:52] INFO: loginUserId: 28
+[19-05-2025 16:32:50] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 16:32:50] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 16:32:50] INFO: Decoded token: 28
+[19-05-2025 16:32:50] INFO: loginUserId: 28
+[19-05-2025 16:32:50] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 16:32:50] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 16:32:50] INFO: Decoded token: 28
+[19-05-2025 16:32:50] INFO: loginUserId: 28
+[19-05-2025 17:05:09] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 17:05:09] INFO: interfaces: [object Object]
+[19-05-2025 17:05:09] INFO: Local IP:", 192.168.1.25
+[19-05-2025 17:05:09] INFO: ✅ MongoDB connected
+[19-05-2025 17:05:09] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 17:05:10] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 17:05:10] INFO: interfaces: [object Object]
+[19-05-2025 17:05:10] INFO: Local IP:", 192.168.1.25
+[19-05-2025 17:05:10] INFO: ✅ MongoDB connected
+[19-05-2025 17:05:10] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 17:11:12] INFO: JWT_SECRET: 7424eeddacfddfcdb34c5307a9b166a47133b7b8cebf93cb42b7233316269e4eb11e87e76429e733a3e8c3d03757c2e8179516103a276ae45db724cd2d821486
+[19-05-2025 17:11:12] INFO: interfaces: [object Object]
+[19-05-2025 17:11:12] INFO: Local IP:", 192.168.1.25
+[19-05-2025 17:11:12] INFO: ✅ MongoDB connected
+[19-05-2025 17:11:12] INFO: 🚀  Server running at http://192.168.1.25:3005
+[19-05-2025 17:11:14] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:11:14] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:11:14] INFO: Decoded token: 28
+[19-05-2025 17:11:14] INFO: loginUserId: 28
+[19-05-2025 17:11:14] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:11:14] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:11:14] INFO: Decoded token: 28
+[19-05-2025 17:11:14] INFO: loginUserId: 28
+[19-05-2025 17:14:38] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:14:38] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:14:38] INFO: Decoded token: 28
+[19-05-2025 17:14:38] INFO: loginUserId: 28
+[19-05-2025 17:14:38] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:14:38] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:14:38] INFO: Decoded token: 28
+[19-05-2025 17:14:38] INFO: loginUserId: 28
+[19-05-2025 17:15:12] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:15:12] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:15:12] INFO: Decoded token: 28
+[19-05-2025 17:15:12] INFO: loginUserId: 28
+[19-05-2025 17:15:12] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:15:12] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:15:12] INFO: Decoded token: 28
+[19-05-2025 17:15:12] INFO: loginUserId: 28
+[19-05-2025 17:21:24] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:21:24] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:21:24] INFO: Decoded token: 28
+[19-05-2025 17:21:24] INFO: loginUserId: 28
+[19-05-2025 17:21:24] INFO: Authorization header: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:21:24] INFO: Token extracted: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MjgsImlhdCI6MTc0NzM4Nzc0MCwiZXhwIjoxNzQ3OTkyNTQwfQ.eTnSjWVUsEEW8aG2LkmL8RlB9fYHPKiKYsvitE4t7bY
+[19-05-2025 17:21:24] INFO: Decoded token: 28
+[19-05-2025 17:21:24] INFO: loginUserId: 28

@@ -1,4 +1,6 @@
 .env
 node_modules
 # Ignore logs folder and its files
-logs/
+logs/* 
+# Ignore all log files
+uploads

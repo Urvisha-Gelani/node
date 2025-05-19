@@ -22,7 +22,7 @@ const userCreated = async (userData) => {
     id: nextUserId,
     ...userData,
   });
-  logger.info(`user: ${user}`);
+  logger.info(`userCreated: ${user}`);
   await user.save();
   return user;
 };

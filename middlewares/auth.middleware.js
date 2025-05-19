@@ -1,4 +1,3 @@
-// middleware/auth.js
 import jwt from "jsonwebtoken";
 import dotenv from "dotenv";
 import logger from "../utils/logger.js";
@@ -15,7 +14,7 @@ const authenticateToken = (req, res, next) => {
   }
   try {
     const decoded = jwt.verify(token, process.env.JWT_SECRET);
-    logger.info(`Decoded token: ${decoded}`);
+    logger.info(`Decoded token: ${decoded.id}`);
     req.user = { id: decoded.id };
     next();
   } catch (err) {

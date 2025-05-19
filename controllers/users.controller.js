@@ -1,8 +1,8 @@
-import { validationResult } from "express-validator";
 import User from "../models/user.model.js";
+import { getLocalIP, PORT } from "../server.js";
 import userCreated from "../services/userServices.js";
 import logger from "../utils/logger.js";
-import { Logger } from "winston";
+// import { validationResult } from "express-validator";
 
 export const getUsers = async (req, res) => {
   try {
@@ -41,8 +41,11 @@ export const createUser = async (req, res) => {
 
   try {
     const { name, email, age } = req.body;
-
+    const localIP = getLocalIP() || "localhost";
     const loginUserId = req.user.id;
+    const avatars = req.files.map((file) => {
+      return `http://${localIP}:${PORT}/${file.path}`;
+    });
     const existingUser = await User.findOne({
       email,
       loginUserId,
@@ -54,11 +57,17 @@ export const createUser = async (req, res) => {
     }
     logger.info(`loginUserId: ${loginUserId}`);
     logger.info(`req.user: ${req.user}`);
+    console.log(
+      req.files,
+      "req-file************---------------------------------------"
+    );
+    console.log(avatars, "////////////////////////////aavtars////////////////");
     const newUser = await userCreated({
       name,
       email,
       age,
       loginUserId,
+      avatars,
     });
     logger.info(`newUser: ${newUser}`);
 
@@ -78,7 +87,7 @@ export const updateUser = async (req, res) => {
 
   try {
     const { id } = req.params;
-    const { email } = req.body;
+    const { name, email, age } = req.body;
     const loginUserId = req.user.id;
     const numericId = Number(id);
     if (isNaN(numericId)) {
@@ -95,10 +104,17 @@ export const updateUser = async (req, res) => {
       logger.error(`updateUser: Email already exists`);
       return res.status(422).json({ message: "Email already exists" });
     }
-
+    const localIP = getLocalIP() || "localhost";
+    const avatars = req.files.map((file) => {
+      return `http://${localIP}:${PORT}/${file.path}`;
+    });
+    console.log(
+      req.file,
+      "req-file************---------------------------------------"
+    );
     const updatedUser = await User.findOneAndUpdate(
       { id: numericId, loginUserId },
-      req.body,
+      { name, email, age, ...(avatars.length && { avatars }) },
       {
         new: true,
         runValidators: true,
@@ -121,6 +137,7 @@ export const deleteUser = async (req, res) => {
     const { id } = req.params;
     const numericId = Number(id);
     const loginUserId = req.user.id;
+
     if (isNaN(numericId)) {
       return res.status(400).json({ message: "Invalid ID format" });
     }
@@ -129,7 +146,7 @@ export const deleteUser = async (req, res) => {
       id: id,
       loginUserId,
     });
-    Logger.info(`deletedUser: ${deletedUser}`);
+    logger.info(`deletedUser: ${deletedUser}`);
     if (!deletedUser)
       return res.status(404).json({ message: "User not found" });
 

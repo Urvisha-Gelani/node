@@ -1,5 +1,6 @@
 import winston from "winston";
 import moment from "moment-timezone";
+
 const logger = winston.createLogger({
   format: winston.format.combine(
     winston.format.timestamp({
@@ -15,11 +16,11 @@ const logger = winston.createLogger({
     new winston.transports.Console(),
     new winston.transports.File({
       filename: "logs/error.log",
-      level: "error", // only error
+      level: "error",
     }),
     new winston.transports.File({
       filename: "logs/app.log",
-      level: "info", // info and above, but exclude errors via filter
+      level: "info",
       format: winston.format.combine(
         winston.format((info) => (info.level === "info" ? info : false))()
       ),

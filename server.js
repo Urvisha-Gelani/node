@@ -8,7 +8,7 @@ dotenv.config();
 
 const interfaces = os.networkInterfaces();
 logger.info(`interfaces: ${interfaces}`);
-const getLocalIP = () => {
+export const getLocalIP = () => {
   for (const name of Object.keys(interfaces)) {
     for (const iface of interfaces[name]) {
       if (iface.family === "IPv4" && !iface.internal) {
@@ -23,13 +23,13 @@ process.on("uncaughtException", (err) => {
   process.exit(1); // Optional: crash app
 });
 
-process.on("unhandledRejection", (reason, promise) => {
+process.on("unhandledRejection", (reason) => {
   logger.error(`Unhandled Rejection: ${reason}`);
 });
 
 const localIP = getLocalIP() || "localhost";
 logger.info(`Local IP:", ${localIP}`);
-const PORT = process.env.PORT || 3000;
+export const PORT = process.env.PORT || 3000;
 
 connectDB().then(() => {
   app.listen(PORT, localIP, () => {

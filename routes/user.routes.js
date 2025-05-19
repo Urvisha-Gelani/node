@@ -10,15 +10,26 @@ import {
   updateUserValidator,
 } from "../validator/user.validator.js";
 import authenticateToken from "../middlewares/auth.middleware.js";
+import upload from "../config/multer.config.js";
 
 const userRouter = express.Router();
 userRouter.use(authenticateToken);
 
 userRouter.get("/", getUsers);
 
-userRouter.post("/", createUserValidator, createUser);
+userRouter.post(
+  "/",
+  upload.array("avatars"),
+  createUserValidator,
+  createUser
+);
 
-userRouter.patch("/:id", updateUserValidator, updateUser);
+userRouter.patch(
+  "/:id",
+  upload.array("avatars"),
+  updateUserValidator,
+  updateUser
+);
 
 userRouter.delete("/:id", deleteUser);
 

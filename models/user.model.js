@@ -14,6 +14,7 @@ const userSchema = new mongoose.Schema(
       ref: "LogIn",
       required: true,
     },
+    avatars: [{ type: String, required: false, unique: true }], // Store image file paths
   },
   {
     versionKey: false,

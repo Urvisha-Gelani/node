@@ -9,7 +9,7 @@ const errorHandler = (err, req, res, next) => {
       message: `Duplicate field value: ${JSON.stringify(err.keyValue)}`,
     });
   }
-
+  console.log(err.status , "err.status+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+")
   const statusCode = err.status || 500;
   logger.warn(`Status Code: ${statusCode}`);
 
