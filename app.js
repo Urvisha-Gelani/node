@@ -5,7 +5,6 @@ import logInRouter from "./routes/auth.routes.js";
 import errorHandler from "./middlewares/error.middleware.js";
 import path from "path";
 import paymentRouter from "./routes/payment.routes.js";
-console.log(path, "path******************************");
 
 const app = express();
 app.use(corsMiddleware);

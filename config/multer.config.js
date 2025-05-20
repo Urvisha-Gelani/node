@@ -1,9 +1,7 @@
-// config/multer.config.js
 import multer from "multer";
 import path from "path";
 import fs from "fs";
 
-// Create uploads directory if not exist
 const uploadDir = path.join(process.cwd(), "uploads");
 if (!fs.existsSync(uploadDir)) {
   fs.mkdirSync(uploadDir, { recursive: true });
@@ -20,8 +18,10 @@ const storage = multer.diskStorage({
 });
 
 const fileFilter = (req, file, cb) => {
-  console.log("fileFIlter+++++++++++++++++++++++++++++++", file.mimetype.startsWith("image/"));
-  // Accept only images
+  console.log(
+    "fileFIlter+++++++++++++++++++++++++++++++",
+    file.mimetype.startsWith("image/")
+  );
   if (file.mimetype.startsWith("image/")) {
     cb(null, true);
   } else {
@@ -32,7 +32,7 @@ const fileFilter = (req, file, cb) => {
 const upload = multer({
   storage,
   fileFilter,
-  limits: { fileSize: 5 * 1024 * 1024 }, // 5MB max
+  limits: { fileSize: 5 * 1024 * 1024 },
 });
 
 export default upload;

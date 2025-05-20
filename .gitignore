@@ -1,8 +1,8 @@
 .env
+
 node_modules
 # Ignore logs folder and its files
-# Ignore log files
 logs/
 *.log
-# Ignore all log files
+
 uploads

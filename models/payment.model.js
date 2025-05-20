@@ -4,6 +4,7 @@ import { setUpdatedAt } from "../middlewares/updateTimestamp.middleware.js";
 
 const paymentSchema = new mongoose.Schema(
   {
+    id: { type: Number, required: true, unique: true },
     amount: Number,
     currency: String,
     stripeCustomerId: String,
@@ -12,8 +13,17 @@ const paymentSchema = new mongoose.Schema(
     paymentMethod: String,
     createdAt: { type: Date, default: Date.now },
     updatedAt: { type: Date, default: Date.now },
+    payableUserId: {
+      type: Number,
+      ref: "User",
+      required: true,
+    },
+    loginUserId: {
+      type: Number,
+      ref: "LogIn",
+      required: true,
+    },
   },
-  { timestamps: true },
   {
     versionKey: false,
     toJSON: {
@@ -30,4 +40,5 @@ const paymentSchema = new mongoose.Schema(
 );
 
 setUpdatedAt(paymentSchema);
-export default mongoose.model("Payment", paymentSchema);
+const Payment = mongoose.model("Payment", paymentSchema);
+export default Payment;

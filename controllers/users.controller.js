@@ -1,3 +1,4 @@
+import Payment from "../models/payment.model.js";
 import User from "../models/user.model.js";
 import { getLocalIP, PORT } from "../server.js";
 import userCreated from "../services/userServices.js";
@@ -19,6 +20,38 @@ export const getUsers = async (req, res) => {
     })
       .skip((page - 1) * limit)
       .limit(limit);
+
+    //*****-------------- Need this details for getting payment of logInUser with payable user name which is helpful for create get API of payment ---------********
+
+    // const rawPayments = await Payment.find({
+    //   loginUserId,
+    //   payableUserId: { $in: users.map((user) => user.id) }, // ✅ numeric id match
+    // })
+    //   .populate({
+    //     path: "payableUserId",
+    //     model: "User",
+    //     select: "id name email",
+    //     localField: "payableUserId",
+    //     foreignField: "id",
+    //     justOne: true,
+    //   })
+    //   .lean();
+    // console.log(
+    //   "rawPayments",
+    //   rawPayments,
+    //   "rawPayments---------------------------------------"
+    // );
+    // // 🟢 Map userDetails from populated payableUserId
+    // const payments = rawPayments.map((payment) => {
+    //   const { payableUserId, ...rest } = payment;
+    //   return {
+    //     ...rest,
+    //     userDetails: payableUserId, // Rename to custom key
+    //   };
+    // });
+
+    // console.log("✅ Final payments with userDetails:", payments);
+    // console.log("✅ Users:", users);
 
     res.set({
       "Total-Users": totalUsers,
