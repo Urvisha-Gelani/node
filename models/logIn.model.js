@@ -13,7 +13,7 @@ const logInSchema = new mongoose.Schema(
     token: {
       type: String,
       unique: true,
-      sparse: true, // allow multiple nulls by not indexing them
+      sparse: true,
     },
   },
   {

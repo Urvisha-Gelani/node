@@ -1,6 +1,45 @@
 import Stripe from "stripe";
 import paymentCreated from "../services/paymentService.js";
+import Payment from "../models/payment.model.js";
+import User from "../models/user.model.js";
 const stripe = new Stripe(process.env.STRIPE_SECRET_KEY);
+
+export const getPayment = async (req, res) => {
+  try {
+    const loginUserId = req.user.id;
+
+    const users = await User.find({
+      loginUserId,
+    });
+
+    const rawPayments = await Payment.find({
+      loginUserId,
+      payableUserId: { $in: users.map((user) => user.id) },
+    })
+      .populate({
+        path: "payableUserId",
+        model: "User",
+        select: "id name email -_id",
+        localField: "payableUserId",
+        foreignField: "id",
+        justOne: true,
+      })
+      .select("-_id -__v")
+      .lean();
+
+    const payments = rawPayments.map((payment) => {
+      const { payableUserId, ...rest } = payment;
+      return {
+        ...rest,
+        userDetails: payableUserId,
+      };
+    });
+
+    res.status(200).json(payments);
+  } catch (error) {
+    res.status(500).json({ error: error.message });
+  }
+};
 
 export const createPayment = async (req, res) => {
   try {
@@ -12,9 +51,9 @@ export const createPayment = async (req, res) => {
     } = req.body;
     console.log("req.user:", req.user);
     const loginUserId = req.user.id;
-    console.log("amount:", amount);
-    console.log("currency:", currency);
-    console.log("paymentMethodId:", paymentMethodId);
+    // console.log("amount:", amount);
+    // console.log("currency:", currency);
+    // console.log("paymentMethodId:", paymentMethodId);
     if (!amount || amount < 0.5) {
       return res
         .status(422)
@@ -33,7 +72,7 @@ export const createPayment = async (req, res) => {
       confirm: true,
       automatic_payment_methods: {
         enabled: true,
-        allow_redirects: "never", // 👈 This is the key to solve your error
+        allow_redirects: "never",
       },
     });
 
@@ -55,23 +94,24 @@ export const createPayment = async (req, res) => {
         status: paymentIntent.status,
         payment,
       });
-    }
-    // else {
-    //   // Save it even if it's not successful (optional tracking)
-    //   await Payment.create({
-    //     amount,
-    //     currency,
-    //     paymentMethod: paymentMethodId,
-    //     stripePaymentIntentId: paymentIntent.id,
-    //     status: paymentIntent.status,
-    //   });
+    } else {
+      console.log("PaymentIntent not succeeded:", paymentIntent);
+      // Save it even if it's not successful (optional tracking)
+      await paymentCreated({
+        amount,
+        currency,
+        paymentMethod: paymentMethodId,
+        stripePaymentIntentId: paymentIntent.id,
+        status: "Failed",
+        payableUserId,
+        loginUserId,
+      });
 
-    //   return res.status(202).json({
-    //     message: `⚠ Payment status: ${paymentIntent.status}`,
-    //     status: paymentIntent.status,
-    //     paymentIntentId: paymentIntent.id,
-    //   });
-    // }
+      return res.status(202).json({
+        message: `⚠ Payment status: ${paymentIntent.status}`,
+        status: paymentIntent.status,
+      });
+    }
   } catch (error) {
     console.error("Stripe Error:", error);
 
@@ -81,15 +121,15 @@ export const createPayment = async (req, res) => {
       console.log("Error message:", error.message);
       console.log("Error code:", error.code);
       // Optionally store the failed attempt
-      // await paymentCreated({
-      //   amount: Math.round(req.body.amount * 100),
-      //   currency: req.body.currency || "usd",
-      //   paymentMethod: req.body.paymentMethodId,
-      //   stripePaymentIntentId: intent.id,
-      //   status: intent.status,
-      //   payableUserId: req.body.payableUserId,
-      //   loginUserId: req.user.id,
-      // });
+      await paymentCreated({
+        amount: Math.round(req.body.amount * 100),
+        currency: req.body.currency || "usd",
+        paymentMethod: req.body.paymentMethodId,
+        stripePaymentIntentId: intent.id,
+        status: "Failed",
+        payableUserId: req.body.payableUserId,
+        loginUserId: req.user.id,
+      });
 
       return res.status(422).json({
         error: error.message,
