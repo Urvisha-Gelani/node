@@ -80,7 +80,7 @@ export const createPayment = async (req, res) => {
 
     if (paymentIntent.status === "succeeded") {
       const payment = await paymentCreated({
-        amount: amountInCents,
+        amount: amount,
         currency,
         paymentMethod: paymentMethodId,
         stripePaymentIntentId: paymentIntent.id,
@@ -134,7 +134,7 @@ export const createPayment = async (req, res) => {
       return res.status(422).json({
         error: error.message,
         paymentIntentId: intent.id,
-        status: intent.status,
+        status: "Failed",
       });
     }
 

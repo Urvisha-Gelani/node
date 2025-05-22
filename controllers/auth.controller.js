@@ -29,10 +29,16 @@ export const login = async (req, res) => {
   const { email, password } = req.body;
 
   try {
+    console.log(password, "password");
     const user = await LogIn.findOne({ email });
-
+    console.log(
+      user,
+      "user******************************",
+      user.matchPassword(password)
+    );
     if (!user || !(await user.matchPassword(password))) {
-      return res.status(401).json({ message: "Invalid credentials" });
+      console.log("Invalid credentials");
+      return res.status(422).json({ message: "Invalid credentials" });
     }
 
     let token = user.token;

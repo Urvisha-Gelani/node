@@ -9,10 +9,10 @@ const errorHandler = (err, req, res, next) => {
       message: `Duplicate field value: ${JSON.stringify(err.keyValue)}`,
     });
   }
-  console.log(err.status , "err.status+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+")
+  console.log(err.status, "err.status+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+");
   const statusCode = err.status || 500;
   logger.warn(`Status Code: ${statusCode}`);
-
+  console.log(err.message, "err.message+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+");
   res.status(statusCode).json({
     success: false,
     message: err.message || "Internal Server Error",

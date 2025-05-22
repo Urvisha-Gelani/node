@@ -18,7 +18,6 @@ export const createUserValidator = [
       const exists = await checkEmailExists(value, loginUserId);
       if (exists) {
         res.status(422).json({ message: "Email already exists" });
-        // throw new Error("Email already exists");
       }
       return true;
     }),
@@ -38,7 +37,6 @@ export const updateUserValidator = [
       logger.info(`exists:  ${exists}`);
       if (exists) {
         res.status(422).json({ message: "Email already exists" });
-        // throw new Error("Email already exists");
       }
       return true;
     }),
